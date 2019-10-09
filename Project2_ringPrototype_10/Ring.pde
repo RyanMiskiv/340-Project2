@@ -5,7 +5,7 @@ class Ring {
   //float[] history;
   
   float tRingDiameter = (int)random(1, 40);
-  float tRingDiameterMax = (int)random(50, 100);
+  float tRingDiameterMax = (int)random(50, 80);
   int systemRed;
   int systemGreen;
   int systemBlue;

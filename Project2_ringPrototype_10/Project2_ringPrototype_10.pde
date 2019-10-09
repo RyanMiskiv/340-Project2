@@ -21,8 +21,8 @@ float[] mRingXOld = new float[6];
 float[] mRingYOld = new float[6];
 
 int check = 0;
-int speedSlow = 50;
-int speedFast = 100;
+int speedSlow = 25;
+int speedFast = 125;
 
 void setup(){
   fullScreen();
